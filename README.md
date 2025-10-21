@@ -26,22 +26,11 @@
         .icon { width: 32px; height: 32px; vertical-align: middle; border-radius: 4px; margin-right: .5rem; }
         figure img { max-width: 100%; height: auto; }
     </style>
-    
-     <p><a href="https://www.google.com" target="_blank">Go to google</a>></p>
-    <link rel="icon" type="image/svg+xml" href="mercy jerop.jpg">
-    <link rel="apple-touch-icon" href="mercy jerop.jpg">
-    <meta name="theme-color" content="#8ec5ff">
-</head>
-<p><a href="web.html">About us page
-<body>
- <p><a href="https://www.google.com/search?q=web+development"target="_blank"> search web Development on Google</a></p>   
-        <img src="mercy jerop.jpg" alt="Mercy Jerop " class="icon">
-    <h1><img src="mercy jerop.jpg" class="icon">PERSONAL INFORMATION</h1>
-
-    
-    <figure>
+    </head>
+<h1>PERSONAL INFORMATION</h1>
+<figure>
         <img src="mercyjerop.jpg" alt="Mercy Jerop " width="200" height="200" loading="lazy">
-        <figcaption>Mercy Jerop (file: mercy jerop.jpg)</figcaption>
+        <figcaption>Mercy Jerop(file: mercy jerop.jpg)</figcaption>
     </figure>
 
     <p>
@@ -65,10 +54,10 @@
 
     <figure>
         <img src="sing'ore girls.jpg" alt="Sing'ore Girls school " width="320" loading="lazy">
-        <figcaption>Sing'ore Girls  (file:singore girls.jpg)</figcaption>
+        <figcaption>Sing'ore Girls school  (file:singore girls.jpg)</figcaption>
 
     </figure> 
-    singore girlsis a christian centred school.lead by good christian principles.It was established in the year 1954 by christian missionaries of the holy rosary 
+    singore girls is a christian centred school.lead by good christian principles.It was established in the year 1954 by christian missionaries of the holy rosary 
 
     
         <img src="meru university.jpg" alt="meru university" width="480" loading="lazy">
