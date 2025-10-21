@@ -1,4 +1,3 @@
-This is my first HTML page
 <!DOCTYPE html>
 <html lang="en">
 
@@ -41,7 +40,7 @@ This is my first HTML page
 
     
     <figure>
-        <img src="mercy jerop.jpg" alt="Mercy Jerop " width="200" height="200" loading="lazy">
+        <img src="mercyjerop.jpg" alt="Mercy Jerop " width="200" height="200" loading="lazy">
         <figcaption>Mercy Jerop (file: mercy jerop.jpg)</figcaption>
     </figure>
 
@@ -65,14 +64,14 @@ This is my first HTML page
     </p>
 
     <figure>
-        <img src="singore girls.jpg" alt="Sing'ore Girls school " width="320" loading="lazy">
+        <img src="sing'ore girls.jpg" alt="Sing'ore Girls school " width="320" loading="lazy">
         <figcaption>Sing'ore Girls  (file:singore girls.jpg)</figcaption>
 
     </figure> 
     singore girlsis a christian centred school.lead by good christian principles.It was established in the year 1954 by christian missionaries of the holy rosary 
 
     
-        <img src="meru university (2).jpg" alt="meru university" width="480" loading="lazy">
+        <img src="meru university.jpg" alt="meru university" width="480" loading="lazy">
         <figcaption>Meru University of Science and Technology (file: meru university.jpg)</figcaption>
     </figure>
 
