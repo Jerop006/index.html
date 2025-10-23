@@ -1,6 +1,3 @@
-![mercy jerop](https://github.com/user-attachments/assets/7e113933-a812-418e-842c-17b63ea15444)
-![meru university](https://github.com/user-attachments/assets/57430a7b-fc3c-4daa-aec1-8a740d84cabd)
-![sing'ore girls](https://github.com/user-attachments/assets/9de44be4-9eed-48ae-b82b-d7809a08748d)
 <!DOCTYPE html>
 <html lang="en">
 
@@ -27,56 +24,29 @@
         
         .icon { width: 32px; height: 32px; vertical-align: middle; border-radius: 4px; margin-right: .5rem; }
         figure img { max-width: 100%; height: auto; }
-    </style>
-    
-     <p><a href="https://www.google.com" target="_blank">Go to google</a>></p>
-    <link rel="icon" type="image/svg+xml" href="mercy jerop.jpg">
-    <link rel="apple-touch-icon" href="mercy jerop.jpg">
-    <meta name="theme-color" content="#8ec5ff">
-</head>
-<p><a href="index.html">About us page
-<body>
- <p><a href="https://www.google.com/search?q=web+development"target="_blank"> search web Development on Google</a></p>   
-        <img src="mercy jerop.jpg" alt="Mercy Jerop " class="icon">
-    <h1><img src="mercy jerop.jpg" class="icon">PERSONAL INFORMATION</h1>
-
-    
-    <figure>
-        <img src="mercy jerop.jpg" alt="Mercy Jerop " width="200" height="200" loading="lazy">
-        <figcaption>Mercy Jerop (file: mercy jerop.jpg)</figcaption>
-    </figure>
-
-    <p>
+    </style>   
+    <h1>PERSONAL INFORMATION</h1>
+    ![mercy jerop](https://github.com/user-attachments/assets/7e113933-a812-418e-842c-17b63ea15444)
+   <p>
         Mercy Jerop<br>
         19 years · Kenyan<br>
         Born on 23 July 2006 in Eldoret<br>
         Single · Christian<br>
         Hobbies: reading, listening to music, playing badminton<br>    </p>
-
-    <p>
+        <p>
         Email: <a href="mailto:mercykemboi02@gmail.com">mercykemboi02@gmail.com</a><br>
         Phone: <a href="tel:+254712447294">0712447294</a><br>
         instagram:<a href="user:@_.m.cy._">@_.m.cy._</a></br>
-    </p>
+        </p>
+        <h2>EDUCATION BACKGROUND</h2>
+        <p>![sing'ore girls](https://github.com/user-attachments/assets/9de44be4-9eed-48ae-b82b-d7809a08748d)
+               
+        I pursued my secondary education at SING'ORE GIRLS (Its a catholic school in Elgeyo Marakwet County
 
-    <h2>EDUCATION BACKGROUND</h2>
-
+    singore girlsis a christian centred school,lead by good christian principles.It was established in the year 1954 by christian missionaries of the holy rosary.<br/>
+    </p> 
     <p>
-        I pursued my secondary education at SING'ORE GIRLS (Its a catholic school in Elgeyo Marakwet County).<br/>
-    </p>
-
-    <figure>
-        <img src="sing'ore girls.jpg" alt="Sing'ore Girls school " width="320" loading="lazy">
-        <figcaption>sing'ore girls.jpg  (file:sing'ore girls.jpg)</figcaption>
-    </figure> 
-    singore girlsis a christian centred school,lead by good christian principles.It was established in the year 1954 by christian missionaries of the holy rosary 
-
-    
-        <img src="meru university.jpg" alt="meru university" width="480" loading="lazy">
-        <figcaption>Meru University of Science and Technology (file: meru university.jpg)</figcaption>
-    </figure>
-
-    <p>
+    ![meru university](https://github.com/user-attachments/assets/57430a7b-fc3c-4daa-aec1-8a740d84cabd)    
 Currently at Meru University of Science and Technology, pursuing a Bachelor's degree in Information Technology (1st year).
 </a> </p>
 
